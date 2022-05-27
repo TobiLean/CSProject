@@ -1,0 +1,16 @@
+C:\codeine\C# projects\CSProject\bin\Debug\net5.0\CSProject.exe
+C:\codeine\C# projects\CSProject\bin\Debug\net5.0\CSProject.deps.json
+C:\codeine\C# projects\CSProject\bin\Debug\net5.0\CSProject.runtimeconfig.json
+C:\codeine\C# projects\CSProject\bin\Debug\net5.0\CSProject.runtimeconfig.dev.json
+C:\codeine\C# projects\CSProject\bin\Debug\net5.0\CSProject.dll
+C:\codeine\C# projects\CSProject\bin\Debug\net5.0\ref\CSProject.dll
+C:\codeine\C# projects\CSProject\bin\Debug\net5.0\CSProject.pdb
+C:\codeine\C# projects\CSProject\obj\Debug\net5.0\CSProject.csproj.AssemblyReference.cache
+C:\codeine\C# projects\CSProject\obj\Debug\net5.0\CSProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\codeine\C# projects\CSProject\obj\Debug\net5.0\CSProject.AssemblyInfoInputs.cache
+C:\codeine\C# projects\CSProject\obj\Debug\net5.0\CSProject.AssemblyInfo.cs
+C:\codeine\C# projects\CSProject\obj\Debug\net5.0\CSProject.csproj.CoreCompileInputs.cache
+C:\codeine\C# projects\CSProject\obj\Debug\net5.0\CSProject.dll
+C:\codeine\C# projects\CSProject\obj\Debug\net5.0\ref\CSProject.dll
+C:\codeine\C# projects\CSProject\obj\Debug\net5.0\CSProject.pdb
+C:\codeine\C# projects\CSProject\obj\Debug\net5.0\CSProject.genruntimeconfig.cache
