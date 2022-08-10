@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>CSProject</id>
+    <version>1.0.0</version>
+    <authors>CSProject</authors>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework="net5.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\codeine\C# projects\CSProject\bin\Debug\net5.0\CSProject.runtimeconfig.json" target="lib\net5.0\CSProject.runtimeconfig.json" />
+    <file src="C:\codeine\C# projects\CSProject\bin\Debug\net5.0\CSProject.dll" target="lib\net5.0\CSProject.dll" />
+  </files>
+</package>
